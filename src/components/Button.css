@@ -1,0 +1,22 @@
+.button-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.row button{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+}
+
+.row :last-child{
+    background-color: yellowgreen;
+    color: white;
+}
