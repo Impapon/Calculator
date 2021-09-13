@@ -1,0 +1,6 @@
+# ISSUE 1: when first button clicked it display will show 0 as well.
+such as if we type 7 as first time it will show 07 rather than just 7
+
+
+# ISSUE 2: as javascript can add two string such as 7, 8 if we write as 7+8 it will shown 15 
+rather than 78. thats a issue from Display's handleClick function
